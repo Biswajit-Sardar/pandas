@@ -14,7 +14,7 @@ Check the data types of each column.
 
 Display only the Name column.
 
-Display Math and English columns together.
+Display only the Name column.
 
 Show students who are 16 years old.
 
