@@ -1,0 +1,121 @@
+Basic Level (1–15)
+
+Load the CSV file using Pandas.
+
+Display the first 5 rows.
+
+Display the last 5 rows.
+
+Find the shape of the dataset.
+
+Show all column names.
+
+Check the data types of each column.
+
+Display only the Name column.
+
+Display Math and English columns together.
+
+Show students who are 16 years old.
+
+Show only Female students.
+
+Show students from Kolkata.
+
+Show students from Class 10.
+
+Show students who scored more than 80 in Math.
+
+Show Female students who are 15 years old.
+
+Show students who scored less than 70 in Science.
+
+
+
+
+
+
+🟡 Intermediate Level (16–30)
+
+Find the average of the Math column.
+
+Find the average of all subject columns.
+
+Find the highest score in Math.
+
+Find the lowest score in English.
+
+Count total number of Male students.
+
+Count students city-wise.
+
+Find average Math score by Gender.
+
+Find average Science score by Class.
+
+Sort the dataset by Math in descending order.
+
+Sort the dataset by Age in ascending order.
+
+Create a new column Total (sum of all subjects).
+
+Create a new column Average.
+
+Show students whose Average is greater than 85.
+
+Display top 3 students based on Total marks.
+
+Display bottom 3 students based on Total marks.
+
+
+
+
+
+
+
+🟠 Advanced Level (31–40)
+
+Group by City and find average Total marks.
+
+Group by Gender and find highest Math score.
+
+Find the highest scoring student in each Class.
+
+Create a new column Result (Pass if Average ≥ 60, else Fail).
+
+Count how many students failed.
+
+Find Male and Female count city-wise.
+
+Check if there are any duplicate rows.
+
+Set StudentID as index.
+
+Reset the index.
+
+Create a new DataFrame with only numeric columns.
+
+
+
+
+🔴 Expert Level (41–50)
+
+Find correlation between Math and Science.
+
+Create a ranking column based on Average marks.
+
+Find the student with highest Computer score.
+
+Group by Age and find average Total marks.
+
+Filter students where Math > 80 AND City = Delhi.
+
+Calculate percentile rank based on Total marks.
+
+Find top student from each City.
+
+Create grade column using apply() (A/B/C/D).
+
+Create a pivot table: City vs Gender → Average Math score.
+
+Generate a full summary report (using describe() and info()).

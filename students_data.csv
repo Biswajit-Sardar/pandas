@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Age,Class,Math,English,Science,Computer,City
+1,Amit,Male,16,10,78,85,80,90,Kolkata
+2,Riya,Female,15,9,88,92,84,95,Delhi
+3,Rahul,Male,17,11,67,70,72,60,Mumbai
+4,Sneha,Female,16,10,90,88,91,93,Kolkata
+5,Arjun,Male,15,9,56,60,58,65,Chennai
+6,Priya,Female,17,11,95,94,96,98,Delhi
+7,Karan,Male,16,10,72,75,70,68,Mumbai
+8,Anjali,Female,15,9,85,80,82,88,Kolkata
+9,Vikram,Male,17,11,60,65,63,70,Chennai
+10,Meena,Female,16,10,92,90,89,94,Delhi
+11,Rohit,Male,15,9,74,78,76,80,Mumbai
+12,Pooja,Female,17,11,89,85,87,90,Kolkata
+13,Sahil,Male,16,10,66,68,64,72,Chennai
+14,Kavya,Female,15,9,91,93,95,97,Delhi
+15,Deep,Male,17,11,58,62,61,59,Mumbai
