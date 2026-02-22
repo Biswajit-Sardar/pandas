@@ -37,35 +37,35 @@ Show students who scored less than 70 in Science.
 
 🟡 Intermediate Level (16–30)
 
-Find the average of the Math column.
+#Find the average of the Math column.
 
-Find the average of all subject columns.
+#Find the average of all subject columns.
 
-Find the highest score in Math.
+#Find the highest score in Math.
 
-Find the lowest score in English.
+#Find the lowest score in English.
 
-Count total number of Male students.
+#Count total number of Male students.
 
-Count students city-wise.
+#Count students city-wise.
 
-Find average Math score by Gender.
+#Find average Math score by Gender.
 
-Find average Science score by Class.
+#Find average Science score by Class.
 
-Sort the dataset by Math in descending order.
+#Sort the dataset by Math in descending order.
 
-Sort the dataset by Age in ascending order.
+#Sort the dataset by Age in ascending order.
 
-Create a new column Total (sum of all subjects).
+#Create a new column Total (sum of all subjects).
 
-Create a new column Average.
+#Create a new column Average.
 
-Show students whose Average is greater than 85.
+#Show students whose Average is greater than 85.
 
-Display top 3 students based on Total marks.
+#Display top 3 students based on Total marks.
 
-Display bottom 3 students based on Total marks.
+#Display bottom 3 students based on Total marks.
 
 
 
